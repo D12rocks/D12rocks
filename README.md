@@ -6,12 +6,12 @@
 <img align="right" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" width="300"/>
 
 ### 💡 About Me
-- 🧑‍🎓 **Who am I?**: A passionate third-year undergrad from India exploring the fascinating world of AI/ML and full-stack development.
-- 🔭 **Current Focus**: Building impactful full-stack projects while sharpening my DSA skills.
+- 🧑‍🎓 **Who am I?**: A passionate MBA Tech student at NMIMS Mumbai specializing in Artificial Intelligence (AI) and Business Intelligence & Analytics (BIA).
+- 🔭 **Current Focus**: Building impactful full-stack projects, developing AI solutions, and diving into business-driven analytics.
 - 🌱 **Learning Goals**: Diving deeper into cloud computing, containerization, and advanced AI techniques.
-- ✨ **Fun Fact**: I believe in continuous learning and often hover over LinkedIn, not just for networking but to gain fresh knowledge! 
+- ✨ **Fun Fact**: I’ve built a real-life **glider plane** during my internship and worked on exciting game development projects with Unity!
 
-📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/dhruv-arora-bb42602a9/)  
+📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/dhruv-arora-bb42602a9/) | [GitHub](https://github.com/D12rocks) | Email: whizdhruv@gmail.com  
 
 ---
 
@@ -35,7 +35,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### **Other Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
@@ -56,18 +57,29 @@
 Here are some cool projects I’ve worked on:
 
 - 🔗 [Netflix Movie Recommender System](https://github.com/D12rocks/Machine-Learning-Project---Netflix-Movie-Recommender-System): A Netflix-like movie recommender using machine learning techniques.  
-  - **Tech Stack**: Python, Jupyter Notebook
+  - **Tech Stack**: Python, Jupyter Notebook, tkinter
 
-- 🚀 [Full-Stack DevOps Project](https://github.com/D12rocks/Devops): A DevOps project exploring CI/CD, containerization, and orchestration.  
-  - **Tech Stack**: Python, Docker, Kubernetes
+- 🧠 [Speech and Emotion Recognition](#): Trained a CNN model with 500+ audio samples for emotion classification using speech.  
+  - **Tech Stack**: Python, TensorFlow, Keras
+
+- ✋ [Hand Gesture Controlled Game](#): Developed a Python-based game controlled via OpenCV-enabled hand gestures.  
+  - **Tech Stack**: Python, OpenCV, Pygame
+
+- ✈️ [Aerodynamics Internship Project](#): Contributed to building a real-life glider plane and developed instructional materials for aerodynamics.  
+  - **Tech Stack**: AutoCAD, Blender, RC Simulators
 
 ---
 
 ### 🏆 Achievements
 - 🌟 **Certifications**:
   - OpenAI Prompt Engineering
-  - TensorFlow Developer Certificate
-- ✨ **Notable Milestone**: Developed an end-to-end movie recommender system that boosts recommendation accuracy by 15%.
+  - Comprehensive Introduction to Global Financial Markets, Investing, and Trading
+- ✨ **Awards**:
+  - **Runner-Up** at Atharva College of Engineering’s National Projectathon.
+  - **Engineering and Inspiration Award** at the FIRST Robotics Competition by BOEING.
+  - **NASA Sponsorship** for innovation in robotics.
+- 🚀 **Leadership**:
+  - Sub-Head, Taqneeq, Official Tech Fest of NMIMS.
 
 ---
 
@@ -75,7 +87,7 @@ Here are some cool projects I’ve worked on:
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 </p>
-When I’m not coding, I’m likely exploring creative ideas or delving into LinkedIn for inspiration. 🧠
+When I’m not coding, I’m likely teaching underprivileged children, building a glider, or exploring exciting tech innovations. 🧠
 
 ---
 
