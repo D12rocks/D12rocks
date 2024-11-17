@@ -65,8 +65,11 @@ Here are some cool projects I’ve worked on:
 - ✋ [Hand Gesture Controlled Game](#): Developed a Python-based game controlled via OpenCV-enabled hand gestures.  
   - **Tech Stack**: Python, OpenCV, Pygame
 
-- ✈️ [Aerodynamics Internship Project](#): Contributed to building a real-life glider plane and developed instructional materials for aerodynamics.  
-  - **Tech Stack**: AutoCAD, Blender, RC Simulators
+- 🌌 [Virtual Reality Solar System](#): Replicated the solar system in VR where a rocketship, controlled via Oculus Quest 3 remote, travels to each planet.  
+  - **Tech Stack**: Unity Game Engine, Blender, C#
+
+- 📸 [Google Add Me Model Replication](#): Implemented Google’s “Add Me” model using image stitching with SIFT filters for seamless image blending.  
+  - **Tech Stack**: Python, OpenCV, NumPy  
 
 ---
 
