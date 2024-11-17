@@ -3,7 +3,7 @@
 
 ---
 
-<img align="right" src="https://makeagif.com/gif/code-fi-lofi-beats-to-coderelax-to-FvBVst" width="300"/>
+<img align="right" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" width="300"/>
 
 ### 💡 About Me
 - 🧑‍🎓 **Who am I?**: A passionate third-year undergrad from India exploring the fascinating world of AI/ML and full-stack development.
