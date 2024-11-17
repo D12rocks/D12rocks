@@ -87,7 +87,7 @@ Here are some cool projects I’ve worked on:
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 </p>
-When I’m not coding, I’m likely teaching underprivileged children, building a glider, or exploring exciting tech innovations. 🧠
+When I’m not coding, I’m likely exploring exciting tech innovations. 🧠
 
 ---
 
