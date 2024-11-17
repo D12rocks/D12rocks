@@ -6,7 +6,7 @@
 <img align="right" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" width="300"/>
 
 ### 💡 About Me
-- 🧑‍🎓 **Who am I?**: A passionate MBA Tech student at NMIMS Mumbai specializing in my
+- 🧑‍🎓 **Who am I?**: A passionate MBA Tech student at NMIMS Mumbai specializing in
 - *Engineering Stream* :[Artificial Intelligence (AI)] and
 - *Management Stream* : [Business Intelligence & Analytics (BIA)].
 - 🔭 **Current Focus**: Building impactful full-stack projects, developing AI solutions, and diving into business-driven analytics.
