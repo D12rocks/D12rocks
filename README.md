@@ -9,7 +9,7 @@
 - 🧑‍🎓 **Who am I?**: A passionate MBA Tech student at NMIMS Mumbai specializing in Artificial Intelligence (AI) and Business Intelligence & Analytics (BIA).
 - 🔭 **Current Focus**: Building impactful full-stack projects, developing AI solutions, and diving into business-driven analytics.
 - 🌱 **Learning Goals**: Diving deeper into cloud computing, containerization, and advanced AI techniques.
-- ✨ **Fun Fact**: I’ve built a real-life **glider plane** during my internship and worked on exciting game development projects with Unity!
+- ✨ **Fun Fact**: I’ve worked on exciting game development projects with Unity during my Internship!
 
 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/dhruv-arora-bb42602a9/) | [GitHub](https://github.com/D12rocks) | Email: whizdhruv@gmail.com  
 
